@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 25.0.1706.14
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "fall24-assn3-zjrowell", "fall24-assn3-zjrowell\fall24-assn3-zjrowell.csproj", "{5F52B06B-F085-4EB3-BAF0-7DE2F0662B3E}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{5F52B06B-F085-4EB3-BAF0-7DE2F0662B3E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5F52B06B-F085-4EB3-BAF0-7DE2F0662B3E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5F52B06B-F085-4EB3-BAF0-7DE2F0662B3E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5F52B06B-F085-4EB3-BAF0-7DE2F0662B3E}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {1DAAD2DE-C851-4A61-A692-5F58574EE2AE}
+	EndGlobalSection
+EndGlobal

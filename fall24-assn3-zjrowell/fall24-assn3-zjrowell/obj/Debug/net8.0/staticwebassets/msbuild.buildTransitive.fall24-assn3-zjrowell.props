@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="../buildMultiTargeting/fall24-assn3-zjrowell.props" />
+</Project>
